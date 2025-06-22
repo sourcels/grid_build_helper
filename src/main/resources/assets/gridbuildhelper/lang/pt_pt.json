@@ -1,0 +1,21 @@
+{
+  "category.gridbuildhelper": "Auxiliar de Construção de Grelha",
+  "key.gridbuildhelper.toggle_rendering": "Alternar Renderização da Grelha",
+  "key.gridbuildhelper.open_gui": "Abrir Configuração da Grelha",
+  "gridbuildhelper.grid_enabled": "[Grid Helper]: Grelha ativada",
+  "gridbuildhelper.grid_disabled": "[Grid Helper]: Grelha desativada",
+
+  "gridbuildhelper.config.title": "Configuração do Grid Build Helper",
+  "gridbuildhelper.config.start_x": "Início X:",
+  "gridbuildhelper.config.start_y": "Início Y:",
+  "gridbuildhelper.config.start_z": "Início Z:",
+  "gridbuildhelper.config.step": "Passo:",
+  "gridbuildhelper.config.radius": "Raio:",
+  "gridbuildhelper.config.color": "Cor (HEX):",
+  "gridbuildhelper.config.key": "Teclas: %s",
+  "gridbuildhelper.config.confirm": "✔",
+  "gridbuildhelper.config.cancel": "✖",
+  "gridbuildhelper.config.add": "+",
+  "gridbuildhelper.config.rename": "✏",
+  "gridbuildhelper.config.delete": "🗑"
+}

@@ -1,0 +1,21 @@
+{
+  "category.gridbuildhelper": "Grid Build Helper",
+  "key.gridbuildhelper.toggle_rendering": "Toggle Grid Rendering",
+  "key.gridbuildhelper.open_gui": "Open Grid Config",
+  "gridbuildhelper.grid_enabled": "[Grid Helper]: Grid enabled",
+  "gridbuildhelper.grid_disabled": "[Grid Helper]: Grid disabled",
+
+  "gridbuildhelper.config.title": "Grid Build Helper Configuration",
+  "gridbuildhelper.config.start_x": "Start X:",
+  "gridbuildhelper.config.start_y": "Start Y:",
+  "gridbuildhelper.config.start_z": "Start Z:",
+  "gridbuildhelper.config.step": "Step:",
+  "gridbuildhelper.config.radius": "Radius:",
+  "gridbuildhelper.config.color": "Color (HEX):",
+  "gridbuildhelper.config.key": "Key: %s",
+  "gridbuildhelper.config.confirm": "✔",
+  "gridbuildhelper.config.cancel": "✖",
+  "gridbuildhelper.config.add": "+",
+  "gridbuildhelper.config.rename": "✏",
+  "gridbuildhelper.config.delete": "🗑"
+}

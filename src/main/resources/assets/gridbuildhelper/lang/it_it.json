@@ -1,0 +1,21 @@
+{
+  "category.gridbuildhelper": "Aiutante Costruzione Griglia",
+  "key.gridbuildhelper.toggle_rendering": "Attiva/Disattiva Rendering Griglia",
+  "key.gridbuildhelper.open_gui": "Apri Configurazione Griglia",
+  "gridbuildhelper.grid_enabled": "[Grid Helper]: Griglia abilitata",
+  "gridbuildhelper.grid_disabled": "[Grid Helper]: Griglia disabilitata",
+
+  "gridbuildhelper.config.title": "Configurazione Grid Build Helper",
+  "gridbuildhelper.config.start_x": "Inizio X:",
+  "gridbuildhelper.config.start_y": "Inizio Y:",
+  "gridbuildhelper.config.start_z": "Inizio Z:",
+  "gridbuildhelper.config.step": "Passo:",
+  "gridbuildhelper.config.radius": "Raggio:",
+  "gridbuildhelper.config.color": "Colore (HEX):",
+  "gridbuildhelper.config.key": "Tasto: %s",
+  "gridbuildhelper.config.confirm": "✔",
+  "gridbuildhelper.config.cancel": "✖",
+  "gridbuildhelper.config.add": "+",
+  "gridbuildhelper.config.rename": "✏",
+  "gridbuildhelper.config.delete": "🗑"
+}

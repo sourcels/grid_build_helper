@@ -1,0 +1,21 @@
+{
+  "category.gridbuildhelper": "Помощник Постройки Сетки",
+  "key.gridbuildhelper.toggle_rendering": "Переключить Рендер Сетки",
+  "key.gridbuildhelper.open_gui": "Открыть Настройки Сетки",
+  "gridbuildhelper.grid_enabled": "[Grid Helper]: Сетка включена",
+  "gridbuildhelper.grid_disabled": "[Grid Helper]: Сетка выключена",
+
+  "gridbuildhelper.config.title": "Настройки Grid Build Helper",
+  "gridbuildhelper.config.start_x": "Начало X:",
+  "gridbuildhelper.config.start_y": "Начало Y:",
+  "gridbuildhelper.config.start_z": "Начало Z:",
+  "gridbuildhelper.config.step": "Шаг:",
+  "gridbuildhelper.config.radius": "Радиус:",
+  "gridbuildhelper.config.color": "Цвет (HEX):",
+  "gridbuildhelper.config.key": "Клавиша: %s",
+  "gridbuildhelper.config.confirm": "✔",
+  "gridbuildhelper.config.cancel": "✖",
+  "gridbuildhelper.config.add": "+",
+  "gridbuildhelper.config.rename": "✏",
+  "gridbuildhelper.config.delete": "🗑"
+}

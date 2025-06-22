@@ -1,0 +1,21 @@
+{
+  "category.gridbuildhelper": "网格建造助手",
+  "key.gridbuildhelper.toggle_rendering": "切换网格渲染",
+  "key.gridbuildhelper.open_gui": "打开网格配置",
+  "gridbuildhelper.grid_enabled": "[网格助手]: 网格已启用",
+  "gridbuildhelper.grid_disabled": "[网格助手]: 网格已禁用",
+
+  "gridbuildhelper.config.title": "网格建造助手配置",
+  "gridbuildhelper.config.start_x": "起始X:",
+  "gridbuildhelper.config.start_y": "起始Y:",
+  "gridbuildhelper.config.start_z": "起始Z:",
+  "gridbuildhelper.config.step": "步长:",
+  "gridbuildhelper.config.radius": "半径:",
+  "gridbuildhelper.config.color": "颜色 (HEX):",
+  "gridbuildhelper.config.key": "按键: %s",
+  "gridbuildhelper.config.confirm": "✔",
+  "gridbuildhelper.config.cancel": "✖",
+  "gridbuildhelper.config.add": "+",
+  "gridbuildhelper.config.rename": "✏",
+  "gridbuildhelper.config.delete": "🗑"
+}

@@ -1,0 +1,21 @@
+{
+  "category.gridbuildhelper": "Ajutor Construcție Grilă",
+  "key.gridbuildhelper.toggle_rendering": "Comută Randarea Grilei",
+  "key.gridbuildhelper.open_gui": "Deschide Configurația Grilei",
+  "gridbuildhelper.grid_enabled": "[Grid Helper]: Grila activată",
+  "gridbuildhelper.grid_disabled": "[Grid Helper]: Grila dezactivată",
+
+  "gridbuildhelper.config.title": "Configurare Grid Build Helper",
+  "gridbuildhelper.config.start_x": "Start X:",
+  "gridbuildhelper.config.start_y": "Start Y:",
+  "gridbuildhelper.config.start_z": "Start Z:",
+  "gridbuildhelper.config.step": "Pas:",
+  "gridbuildhelper.config.radius": "Rază:",
+  "gridbuildhelper.config.color": "Culoare (HEX):",
+  "gridbuildhelper.config.key": "Tastă: %s",
+  "gridbuildhelper.config.confirm": "✔",
+  "gridbuildhelper.config.cancel": "✖",
+  "gridbuildhelper.config.add": "+",
+  "gridbuildhelper.config.rename": "✏",
+  "gridbuildhelper.config.delete": "🗑"
+}

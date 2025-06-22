@@ -1,0 +1,21 @@
+{
+  "category.gridbuildhelper": "Торды Құру Көмекшісі",
+  "key.gridbuildhelper.toggle_rendering": "Торды көрсетуді ауыстыру",
+  "key.gridbuildhelper.open_gui": "Тор параметрлерін ашу",
+  "gridbuildhelper.grid_enabled": "[Тор көмекшісі]: Тор қосулы",
+  "gridbuildhelper.grid_disabled": "[Тор көмекшісі]: Тор өшірулі",
+
+  "gridbuildhelper.config.title": "Тор құру көмекшісінің конфигурациясы",
+  "gridbuildhelper.config.start_x": "Бастапқы X:",
+  "gridbuildhelper.config.start_y": "Бастапқы Y:",
+  "gridbuildhelper.config.start_z": "Бастапқы Z:",
+  "gridbuildhelper.config.step": "Қадам:",
+  "gridbuildhelper.config.radius": "Радиус:",
+  "gridbuildhelper.config.color": "Түс (HEX):",
+  "gridbuildhelper.config.key": "Перне: %s",
+  "gridbuildhelper.config.confirm": "✔",
+  "gridbuildhelper.config.cancel": "✖",
+  "gridbuildhelper.config.add": "+",
+  "gridbuildhelper.config.rename": "✏",
+  "gridbuildhelper.config.delete": "🗑"
+}

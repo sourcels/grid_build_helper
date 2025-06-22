@@ -1,0 +1,21 @@
+{
+  "category.gridbuildhelper": "Помічник Побудови Сітки",
+  "key.gridbuildhelper.toggle_rendering": "Перемкнути Рендер Сітки",
+  "key.gridbuildhelper.open_gui": "Відкрити Налаштування Сітки",
+  "gridbuildhelper.grid_enabled": "[Grid Helper]: Сітка увімкнена",
+  "gridbuildhelper.grid_disabled": "[Grid Helper]: Сітка вимкнена",
+
+  "gridbuildhelper.config.title": "Конфігурація Grid Build Helper",
+  "gridbuildhelper.config.start_x": "Початок X:",
+  "gridbuildhelper.config.start_y": "Початок Y:",
+  "gridbuildhelper.config.start_z": "Початок Z:",
+  "gridbuildhelper.config.step": "Крок:",
+  "gridbuildhelper.config.radius": "Радіус:",
+  "gridbuildhelper.config.color": "Колір (HEX):",
+  "gridbuildhelper.config.key": "Кнопка: %s",
+  "gridbuildhelper.config.confirm": "✔",
+  "gridbuildhelper.config.cancel": "✖",
+  "gridbuildhelper.config.add": "+",
+  "gridbuildhelper.config.rename": "✏",
+  "gridbuildhelper.config.delete": "🗑"
+}

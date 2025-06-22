@@ -1,0 +1,21 @@
+{
+  "category.gridbuildhelper": "Raster-Bauhelfer",
+  "key.gridbuildhelper.toggle_rendering": "Raster-Rendering umschalten",
+  "key.gridbuildhelper.open_gui": "Raster-Konfiguration öffnen",
+  "gridbuildhelper.grid_enabled": "[Grid Helper]: Raster aktiviert",
+  "gridbuildhelper.grid_disabled": "[Grid Helper]: Raster deaktiviert",
+
+  "gridbuildhelper.config.title": "Grid Build Helper Einstellungen",
+  "gridbuildhelper.config.start_x": "Anfang X:",
+  "gridbuildhelper.config.start_y": "Anfang Y:",
+  "gridbuildhelper.config.start_z": "Anfang Z:",
+  "gridbuildhelper.config.step": "Schritt:",
+  "gridbuildhelper.config.radius": "Radius:",
+  "gridbuildhelper.config.color": "Farbe (HEX):",
+  "gridbuildhelper.config.key": "Taste: %s",
+  "gridbuildhelper.config.confirm": "✔",
+  "gridbuildhelper.config.cancel": "✖",
+  "gridbuildhelper.config.add": "+",
+  "gridbuildhelper.config.rename": "✏",
+  "gridbuildhelper.config.delete": "🗑"
+}

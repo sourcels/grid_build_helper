@@ -1,0 +1,21 @@
+{
+  "category.gridbuildhelper": "グリッド建築ヘルパー",
+  "key.gridbuildhelper.toggle_rendering": "グリッド描画の切り替え",
+  "key.gridbuildhelper.open_gui": "グリッド設定を開く",
+  "gridbuildhelper.grid_enabled": "[グリッドヘルパー]: グリッド有効",
+  "gridbuildhelper.grid_disabled": "[グリッドヘルパー]: グリッド無効",
+
+  "gridbuildhelper.config.title": "グリッド建築ヘルパー設定",
+  "gridbuildhelper.config.start_x": "開始X:",
+  "gridbuildhelper.config.start_y": "開始Y:",
+  "gridbuildhelper.config.start_z": "開始Z:",
+  "gridbuildhelper.config.step": "ステップ:",
+  "gridbuildhelper.config.radius": "半径:",
+  "gridbuildhelper.config.color": "色 (HEX):",
+  "gridbuildhelper.config.key": "キー: %s",
+  "gridbuildhelper.config.confirm": "✔",
+  "gridbuildhelper.config.cancel": "✖",
+  "gridbuildhelper.config.add": "+",
+  "gridbuildhelper.config.rename": "✏",
+  "gridbuildhelper.config.delete": "🗑"
+}

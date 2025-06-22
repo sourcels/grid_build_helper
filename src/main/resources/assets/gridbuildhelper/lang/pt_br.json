@@ -1,0 +1,21 @@
+{
+  "category.blockoutlines": "Auxiliar de Construção de Grade",
+  "key.blockoutlines.toggle_rendering": "Alternar Renderização da Grade",
+  "key.blockoutlines.open_gui": "Abrir Configuração da Grade",
+  "gridbuildhelper.grid_enabled": "[Grid Helper]: Grade ativada",
+  "gridbuildhelper.grid_disabled": "[Grid Helper]: Grade desativada",
+
+  "gridbuildhelper.config.title": "Configuração do Grid Build Helper",
+  "gridbuildhelper.config.start_x": "Início X:",
+  "gridbuildhelper.config.start_y": "Início Y:",
+  "gridbuildhelper.config.start_z": "Início Z:",
+  "gridbuildhelper.config.step": "Passo:",
+  "gridbuildhelper.config.radius": "Raio:",
+  "gridbuildhelper.config.color": "Cor (HEX):",
+  "gridbuildhelper.config.key": "Tecla: %s",
+  "gridbuildhelper.config.confirm": "✔",
+  "gridbuildhelper.config.cancel": "✖",
+  "gridbuildhelper.config.add": "+",
+  "gridbuildhelper.config.rename": "✏",
+  "gridbuildhelper.config.delete": "🗑"
+}
